@@ -29,12 +29,12 @@
         <repository>
             <id>deployment</id>
             <name>Internal Releases</name>
-            <url>http://52.91.199.153:8081/nexus/content/repositories/javademo.rel/</url>
+            <url>http://34.226.154.242:8081/nexus/content/repositories/nexusREL/</url>
         </repository>
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://52.91.199.153:8081/nexus/content/repositories/javademo/</url>
+            <url>http://34.226.154.242:8081/nexus/content/repositories/nexustest/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
