@@ -34,7 +34,7 @@
         <snapshotRepository>
             <id>deployment</id>
             <name>Internal Snapshot Releases</name>
-            <url>http://34.238.154.120:8081/nexus/content/repositories/sonarnexus/</url>
+            <url>http://localhost:8081/repository/Java/</url>
         </snapshotRepository>
     </distributionManagement>
   <dependencies>
